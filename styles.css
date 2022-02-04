@@ -18,6 +18,7 @@ footer {
 
 .w {
   background-image: url('images/tom1.png');
+  display: block;
 }
 
 .a {
@@ -82,4 +83,14 @@ footer {
 
 .drum:hover{
   background-color: #EEEEEE;
+}
+
+.tune{
+  margin:20px;
+}
+
+
+.wdrum{
+  text-align: left;
+  padding-left: 26%;
 }
